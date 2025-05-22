@@ -2,9 +2,4 @@ This is my first file.
 huc abcc
 dasd
 abccddd
-<<<<<<< HEAD
-1234
-afnsnonosn
-=======
-123456
->>>>>>> main
+
